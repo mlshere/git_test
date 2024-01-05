@@ -1,0 +1,5 @@
+Hello, world! This is a Git test.
+
+Here's some additional text for our Git example.
+Git is a powerful version control system.
+It helps manage changes in our projects.
